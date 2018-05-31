@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_music">MusicPlayer</string>
+    <string name="music_title">title</string>
+    <string name="music_singer">singer</string>
+    <string name="music_size">size</string>
+    <string name="music_duration">duration</string>
+    <string name="music_cancle">close</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_musicinfo">Musicinfo</string>
+    <string name="d1lyr">
+        Play Hard  \n
+        专辑：Mastermix-Pro Disc 155 \n
+        歌手：David Guetta / Ne-Yo / Akon \n
+        歌词大意：\n
+        hey said us hustlers work is never through \n
+        We makin  it  cause we make it move \n
+        The only thing we know how to do \n
+        Said it is the only thing we know how to do \n
+        Work hard, play hard \n
+        Work hard, play hard.ard \n
+        We work hard, play hard  \n
+        Keep partyin like it is your job \n
+        Come on baby and drop this \n
+        Scrub that floor and just mop it \n
+    </string>
+    <string name="d2lyr">22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222</string>
+    <string name="d3lyr">33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333</string>
+    <string name="d4lyr">44444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444</string>
+    <string name="d5lyr">55555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555</string>
+</resources>
